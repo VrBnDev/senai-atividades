@@ -16,3 +16,5 @@
 
 ## Módulo 04 -Versionamento (16h)
 #### 25/09/2023 - 09/10/2023
+
+- Lembrei do comando: git commit
