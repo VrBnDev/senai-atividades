@@ -36,13 +36,13 @@
 
 Nesta UC aprendemos sobre Typescript e o Framework Angular para o desenvolvimento do Front-End de aplicações web. 
 
-- Tecnologias Estudadas:
+### - Tecnologias Estudadas:
 
 1. Typescript
 2. Angular
 3. Material Angular
 
-- Habilidades:
+### - Habilidades:
 1.  Correlacionar framework com as linguagens de programação.
 2. Reconhecer boas práticas de programação para a melhoria do código.
 3. Reconhecer boas práticas para a criação de documentação de software.
