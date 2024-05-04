@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
   styleUrl: './atualiza-produto.component.css'
 })
 export class AtualizaProdutoComponent {
+produto: any;
 
 }
