@@ -51,3 +51,10 @@ Nesta UC aprendemos sobre Typescript e o Framework Angular para o desenvolviment
 6. Reconhecer as necessidades de utilização dos serviços do servidor.
 7. Aplicar tratamento de falhas nas mensagens do servidor.
 8. Aplicar boas práticas relativas à segurança da informação.
+
+## Módulo 11 - Codificação para Backend
+
+### - Tecnologias Estudadas:
+
+1. C#
+2. Dotnet
